@@ -1,0 +1,1 @@
+from .starship_list_collector import StarshipsListCollectorInterface
